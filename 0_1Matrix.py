@@ -1,5 +1,5 @@
 # Time Complexity : O(m * n), m is no of rows and n is no of columns
-# Space Complexity : O(m * n), because the queue can store all leaf nodes at worst
+# Space Complexity : O(m * n)
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : NA 
 
